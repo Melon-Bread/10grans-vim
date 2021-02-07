@@ -1,3 +1,34 @@
+" -----------------------------------------------------------------------------
+" File: 10grans-dark.vim
+" Description: 10grans inspired vim color scheme 
+" Author: Rain <rain@melonbread.dev>
+" Source: https://github.com/Melon-Bread/10grans-vim
+"
+"                  ,,ggddY""""Ybbgg,,
+"             ,agd""'              `""bg,
+"          ,gdP"                       "Ybg,
+"        ,dP"                             "Yb,
+"      ,dP"         _,,ddP"""Ybb,,_         "Yb,
+"     ,8"         ,dP"'         `"Yb,         "8,
+"    ,8'        ,d"                 "b,        `8,
+"   ,8'        d"                     "b        `8,
+"   d'        d'        ,gPPRg,        `b        `b
+"   8         8        dP'   `          8         8
+"   8         8        8)  (888B        8         8
+"   8         8        Yb     dP        8         8
+"   8         Y,        "8ggg8"        ,P         8
+"   Y,         Ya                     aP         ,P
+"   `8,         "Ya                 aP"         ,8'
+"    `8,          "Yb,_         _,dP"          ,8'
+"     `8a           `""YbbgggddP""'           a8'
+"      `Yba                                 adP'
+"        "Yba                             adY"
+"          `"Yba,                     ,adP"'
+"             `"Y8ba,             ,ad8P"'
+"                  ``""YYbaaadPP""''
+"
+" -----------------------------------------------------------------------------
+
 hi clear
 syntax reset
 let g:colors_name = "10grans-black"
